@@ -86,10 +86,10 @@ An offline Retrieval-Augmented Generation (RAG) system that enables users to sem
 
 ```bash
 # Clone repository
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone <https://github.com/AbhayPratap01/Offline-PDF-Intelligence-System>
 
 # Navigate into project directory
-cd <PROJECT_NAME>
+cd <Offline-PDF-Intelligence-System>
 
 # Install dependencies
 npm install
