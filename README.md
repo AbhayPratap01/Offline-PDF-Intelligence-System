@@ -82,19 +82,6 @@ An offline Retrieval-Augmented Generation (RAG) system that enables users to sem
 
 ---
 
-## Screenshots
-
-### Upload & Query Interface
-(Add screenshot here)
-
-### Semantic Query Responses
-(Add screenshot here)
-
-### Backend Workflow / Architecture
-(Add architecture diagram here)
-
----
-
 ## Installation & Setup
 
 ```bash
@@ -109,6 +96,7 @@ npm install
 
 # Start development server
 npm run dev
+```
 
 ---
 
