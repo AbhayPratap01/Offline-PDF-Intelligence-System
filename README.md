@@ -86,10 +86,10 @@ An offline Retrieval-Augmented Generation (RAG) system that enables users to sem
 
 ```bash
 # Clone repository
-git clone <https://github.com/AbhayPratap01/Offline-PDF-Intelligence-System>
+git clone https://github.com/AbhayPratap01/Offline-PDF-Intelligence-System
 
 # Navigate into project directory
-cd <Offline-PDF-Intelligence-System>
+cd Offline-PDF-Intelligence-System
 
 # Install dependencies
 npm install
@@ -100,6 +100,6 @@ npm run dev
 
 ---
 
-#Project Motivation
+## Project Motivation
 
 This project was built to explore Retrieval-Augmented Generation (RAG) systems and create a privacy-focused document intelligence platform capable of working without external cloud-based AI dependencies. The goal was to combine semantic search, scalable backend engineering, and real-time query handling into a practical AI-powered application.
