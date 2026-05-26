@@ -97,7 +97,7 @@ An offline Retrieval-Augmented Generation (RAG) system that enables users to sem
 
 ## Installation & Setup
 
----bash
+```bash
 # Clone repository
 git clone <YOUR_GITHUB_REPO_LINK>
 
